@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-csc",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute the cosecant of a number.",
   "license": "Apache-2.0",
   "author": {
