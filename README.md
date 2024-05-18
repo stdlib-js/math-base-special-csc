@@ -123,7 +123,8 @@ for ( i = 0; i < x.length; i++ ) {
 
 ## See Also
 
-<span class="package-name">[`@stdlib/math-base/special/sin`][@stdlib/math/base/special/sin]</span><span class="delimiter">: </span><span class="description">evaluate the sine of a number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/cot`][@stdlib/math/base/special/cot]</span><span class="delimiter">: </span><span class="description">evaluate the cotangent of a number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/sin`][@stdlib/math/base/special/sin]</span><span class="delimiter">: </span><span class="description">compute the sine of a number.</span>
 
 </section>
 
@@ -168,8 +169,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/math-base-special-csc.svg
 [npm-url]: https://npmjs.org/package/@stdlib/math-base-special-csc
 
-[test-image]: https://github.com/stdlib-js/math-base-special-csc/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/math-base-special-csc/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/math-base-special-csc/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/math-base-special-csc/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-base-special-csc/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-base-special-csc?branch=main
@@ -204,6 +205,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [trigonometric-functions]: https://en.wikipedia.org/wiki/Trigonometric_functions
 
 <!-- <related-links> -->
+
+[@stdlib/math/base/special/cot]: https://github.com/stdlib-js/math-base-special-cot
 
 [@stdlib/math/base/special/sin]: https://github.com/stdlib-js/math-base-special-sin
 
