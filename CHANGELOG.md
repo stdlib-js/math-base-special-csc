@@ -39,9 +39,8 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
--   Athan Reines
 -   Athan Reines
 -   Gunj Joshi
 -   Philipp Burckhardt
@@ -88,11 +87,10 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Mihir Pandit
 -   Philipp Burckhardt
--   stdlib-bot
 
 </section>
 
