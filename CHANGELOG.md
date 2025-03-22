@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-02)
+## Unreleased (2025-03-22)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5b45d4b`](https://github.com/stdlib-js/stdlib/commit/5b45d4b48b3cff026b41a744f16ecc49d97af267) - **bench:** update random value generation [(#6288)](https://github.com/stdlib-js/stdlib/pull/6288) _(by Harsh)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Harsh
 -   Philipp Burckhardt
 
 </section>
