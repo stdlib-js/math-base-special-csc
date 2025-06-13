@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-13)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`38ae655`](https://github.com/stdlib-js/stdlib/commit/38ae655186f89a528284564cb70708f479d0c307) - **docs:** fix function name _(by Karan Anand)_
 -   [`5087e64`](https://github.com/stdlib-js/stdlib/commit/5087e644a4ad2a77078326a1272a2197bf3f5649) - **docs:** replace manual `for` loop in examples [(#6621)](https://github.com/stdlib-js/stdlib/pull/6621) _(by Harsh)_
 -   [`864fc4f`](https://github.com/stdlib-js/stdlib/commit/864fc4ffe65a2f6455f92ac10947d9921e23c355) - **test:** add tests for IEEE 754-2019 compliance [(#6620)](https://github.com/stdlib-js/stdlib/pull/6620) _(by Karan Anand, stdlib-bot)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
