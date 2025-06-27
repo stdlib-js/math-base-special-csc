@@ -67,7 +67,7 @@ To view installation and usage instructions specific to each branch build, be su
 var csc = require( '@stdlib/math-base-special-csc' );
 ```
 
-## csc( x )
+#### csc( x )
 
 Evaluates the [cosecant][trigonometric-functions] of `x` (in radians).
 
