@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-13)
+## Unreleased (2026-01-01)
 
 <section class="commits">
 
@@ -12,15 +12,16 @@
 
 <details>
 
+-   [`a55e19f`](https://github.com/stdlib-js/stdlib/commit/a55e19f3343b4a34486a5c109805bbc52e4dbb16) - **test:** replace t.true with t.strictEqual so tests actually check main export _(by Philipp Burckhardt)_
 -   [`a495900`](https://github.com/stdlib-js/stdlib/commit/a495900053117b43f7f011627915a82d3aca520e) - **chore:** add structured package data for packages in `math/base/special` [(#8053)](https://github.com/stdlib-js/stdlib/pull/8053) _(by Gunj Joshi, Athan Reines)_
 -   [`aa8b15b`](https://github.com/stdlib-js/stdlib/commit/aa8b15b9c8aa11db7dc584b0368fedeb98ef885a) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`4f74869`](https://github.com/stdlib-js/stdlib/commit/4f74869d4bfffd36b8d5a39a30771619eb545f3d) - **test:** add trailing newline to fixture outputs _(by Karan Anand)_
 -   [`9f74ff6`](https://github.com/stdlib-js/stdlib/commit/9f74ff66f679b1b6b2dca573942a7e848d0fa46b) - **test:** fix range typo and regenerate fixture _(by Karan Anand)_
 -   [`38ae655`](https://github.com/stdlib-js/stdlib/commit/38ae655186f89a528284564cb70708f479d0c307) - **docs:** fix function name _(by Karan Anand)_
--   [`5087e64`](https://github.com/stdlib-js/stdlib/commit/5087e644a4ad2a77078326a1272a2197bf3f5649) - **docs:** replace manual `for` loop in examples [(#6621)](https://github.com/stdlib-js/stdlib/pull/6621) _(by Harsh)_
+-   [`5087e64`](https://github.com/stdlib-js/stdlib/commit/5087e644a4ad2a77078326a1272a2197bf3f5649) - **docs:** replace manual `for` loop in examples [(#6621)](https://github.com/stdlib-js/stdlib/pull/6621) _(by Harsh Yadav)_
 -   [`864fc4f`](https://github.com/stdlib-js/stdlib/commit/864fc4ffe65a2f6455f92ac10947d9921e23c355) - **test:** add tests for IEEE 754-2019 compliance [(#6620)](https://github.com/stdlib-js/stdlib/pull/6620) _(by Karan Anand, stdlib-bot)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
--   [`5b45d4b`](https://github.com/stdlib-js/stdlib/commit/5b45d4b48b3cff026b41a744f16ecc49d97af267) - **bench:** update random value generation [(#6288)](https://github.com/stdlib-js/stdlib/pull/6288) _(by Harsh)_
+-   [`5b45d4b`](https://github.com/stdlib-js/stdlib/commit/5b45d4b48b3cff026b41a744f16ecc49d97af267) - **bench:** update random value generation [(#6288)](https://github.com/stdlib-js/stdlib/pull/6288) _(by Harsh Yadav)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -37,7 +38,7 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 -   Athan Reines
 -   Gunj Joshi
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 
