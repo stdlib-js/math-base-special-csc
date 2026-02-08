@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import csc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-csc@deno/mod.js';
+import csc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-csc@v0.2.1-deno/mod.js';
 ```
 
 #### csc( x )
@@ -84,7 +84,7 @@ v = csc( NaN );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-two-pi@deno/mod.js';
-import csc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-csc@deno/mod.js';
+import csc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-csc@v0.2.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
