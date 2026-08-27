@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-01)
+## Unreleased (2026-08-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1ad5851`](https://github.com/stdlib-js/stdlib/commit/1ad585103d22754bf57382ef241e5f71edcbb12e) - **docs:** add equations [(#14683)](https://github.com/stdlib-js/stdlib/pull/14683) _(by Karan Anand)_
 -   [`2d4ff34`](https://github.com/stdlib-js/stdlib/commit/2d4ff34b30b1f0f569e3ae8a1473eb517f9f4cd0) - **test:** migrate `math/base/special/csc` to ULP-based assertions [(#13828)](https://github.com/stdlib-js/stdlib/pull/13828) _(by Philipp Burckhardt)_
 -   [`c73c8b3`](https://github.com/stdlib-js/stdlib/commit/c73c8b39bd76529182ea2b3423c6f0feab434774) - **bench:** refactor to use string interpolation in `math/base/special` [(#11387)](https://github.com/stdlib-js/stdlib/pull/11387) _(by Karan Anand)_
 -   [`40a80f6`](https://github.com/stdlib-js/stdlib/commit/40a80f62a767edfc5d664d617f44a4b8cb335cdd) - **docs:** add missing section closing comments in `math/base/special` READMEs _(by Philipp Burckhardt)_
